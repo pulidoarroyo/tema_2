@@ -1,4 +1,4 @@
-package lenguaje2;
+package ejercicio2.lenguaje2;
 // Lista enlazada con nodos en java
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
